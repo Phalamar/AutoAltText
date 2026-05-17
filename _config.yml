@@ -5,7 +5,8 @@ theme: jekyll-theme-minimal
 # Markdown files at the repo root render as .html at /<name>.html, e.g.
 # privacy-policy.md → /AutoAltText/privacy-policy.html
 
-# Don't ship unrelated files to GitHub Pages
+# GitHub Pages renders index.md as the homepage at /. README.md continues
+# to serve the GitHub repo UI but is excluded from the rendered Pages site.
 exclude:
   - README.md
   - LICENSE
