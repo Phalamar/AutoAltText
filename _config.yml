@@ -1,0 +1,12 @@
+title: Auto Alt-Text for Confluence
+description: Marketplace documentation, privacy policy, and imprint
+theme: jekyll-theme-minimal
+
+# Markdown files at the repo root render as .html at /<name>.html, e.g.
+# privacy-policy.md → /AutoAltText/privacy-policy.html
+
+# Don't ship unrelated files to GitHub Pages
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
