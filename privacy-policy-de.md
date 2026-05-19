@@ -24,6 +24,8 @@ Rouven Hohlstein-Thiel ist eine in Deutschland ansässige Privatperson und biete
 
 **Hinweis zu den Rollen:** Wenn Ihre Organisation die App in Ihrer Confluence-Cloud-Instanz installiert, ist Ihre Organisation **Verantwortlicher** im Sinne der DSGVO für die Inhalte, die die App verarbeitet (Ihre Confluence-Seiten und die darin möglicherweise enthaltenen personenbezogenen Daten). Der App-Anbieter handelt in Ihrem Auftrag als **Auftragsverarbeiter** und verarbeitet Daten ausschließlich, soweit dies zur Bereitstellung der App-Funktionalität erforderlich ist.
 
+Wenn Sie uns direkt per E-Mail kontaktieren (z. B. für Supportanfragen), verarbeiten wir Ihre E-Mail-Adresse und die übermittelten Nachrichteninhalte als Verantwortlicher ausschließlich zur Bearbeitung Ihrer Anfrage (Rechtsgrundlage: Art. 6 Abs. 1 lit. b bzw. f DSGVO). Diese Daten werden gelöscht, sobald Ihre Anfrage abschließend geklärt ist.
+
 ## 2. Welche Daten die App verarbeitet
 
 Die App ist eine Forge-App, die auf der Infrastruktur von Atlassian läuft. Sie verarbeitet Daten ausschließlich dann, wenn ein Nutzer eine Confluence-Seite in einem Bereich aktualisiert, in dem die App konfiguriert ist.
@@ -79,7 +81,7 @@ Bei Deinstallation der App löscht Atlassian Forge die App-Storage gemäß den D
 
 ## 6. Rechtsgrundlage (DSGVO)
 
-Die App verarbeitet personenbezogene Daten auf folgender Grundlage:
+Aus Sicht des Verantwortlichen (Ihre Organisation) basiert die Verarbeitung der Daten durch die App in der Regel auf folgenden Rechtsgrundlagen:
 
 - **Art. 6 Abs. 1 lit. b DSGVO — Vertragserfüllung**: Sobald Ihre Organisation die App installiert und ein Bereichs-Administrator sie konfiguriert, ist die Verarbeitung zur Bereitstellung der vereinbarten Funktionalität erforderlich.
 - **Art. 6 Abs. 1 lit. f DSGVO — berechtigtes Interesse**: Die Verbesserung der Barrierefreiheit von Confluence-Inhalten für Nutzer, die auf assistive Technologien angewiesen sind, stellt ein berechtigtes Interesse sowohl der Verantwortlichen als auch der betroffenen Personen dar.
@@ -117,4 +119,4 @@ Der Anbieter kann diese Datenschutzerklärung aktualisieren. Wesentliche Änderu
 
 ## 12. Beschwerden
 
-Sie haben das Recht, sich bei einer zuständigen Aufsichtsbehörde zu beschweren. In Deutschland ist für private App-Anbieter in der Regel die Landesdatenschutzbehörde Ihres Wohnsitzbundeslandes zuständig; in bestimmten Konstellationen kann auch der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) zuständig sein.
+Sie haben das Recht, sich bei einer zuständigen Aufsichtsbehörde zu beschweren. In Deutschland ist für private App-Anbieter die Landesdatenschutzbehörde Ihres Wohnsitzbundeslandes zuständig; für den Anbieter dieser App ist dies das Unabhängige Datenschutzzentrum Saarland (UDZ).

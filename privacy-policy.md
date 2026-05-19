@@ -24,6 +24,8 @@ Rouven Hohlstein-Thiel is an individual based in Germany and offers this App in 
 
 **Note on roles:** When your organization installs the App in your Confluence Cloud instance, your organization is the **data controller** for the content the App processes (your Confluence pages and the personal data they may contain). The App's publisher acts as a **data processor** on your behalf, processing data only as necessary to provide the App's functionality.
 
+If you contact us directly via email (e.g., for support inquiries), we process your email address and the submitted message content as a data controller solely to handle your inquiry (Legal basis: Art. 6(1)(b) or (f) GDPR). This data will be deleted once your inquiry has been definitively resolved.
+
 ## 2. What the App processes
 
 The App is a Forge app running on Atlassian's infrastructure. It processes data only when a Confluence page is updated by a user in a space where the App has been configured.
@@ -79,7 +81,7 @@ When the App is uninstalled, Atlassian Forge purges the App's storage in accorda
 
 ## 6. Legal basis (GDPR)
 
-The App processes personal data on the following legal bases:
+From the perspective of the data controller (your organization), the processing of data by the App is generally based on the following legal bases:
 
 - **Art. 6(1)(b) GDPR — performance of a contract**: when your organization installs the App and a space administrator configures it, processing is necessary to provide the agreed functionality.
 - **Art. 6(1)(f) GDPR — legitimate interests**: improving accessibility of Confluence content for users who rely on assistive technology is a legitimate interest of both data controllers and data subjects.
@@ -117,4 +119,4 @@ The publisher may update this Privacy Policy. Material changes will be reflected
 
 ## 12. Complaints
 
-For complaints about the publisher's processing of your personal data, you may contact a competent supervisory authority. In Germany, this is the Federal Commissioner for Data Protection and Freedom of Information (Bundesbeauftragter für den Datenschutz und die Informationsfreiheit, BfDI), or your state's data protection authority.
+For complaints about the publisher's processing of your personal data, you may contact a competent supervisory authority. In Germany, this is the Data Protection Authority of Saarland (Unabhängiges Datenschutzzentrum Saarland, UDZ) or your local state authority.

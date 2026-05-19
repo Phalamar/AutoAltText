@@ -15,6 +15,8 @@ AI-generated alt text and visible captions for images in Confluence Cloud. Bring
 
 - [Privacy policy](privacy-policy.html) (English)
 - [Datenschutzerklärung](privacy-policy-de.html) (Deutsch)
+- [Terms and Conditions / Allgemeine Geschäftsbedingungen](terms.html)
+- [Data Processing Agreement / Auftragsverarbeitungsvertrag (AVV)](dpa.html)
 - [Imprint / Impressum](imprint.html)
 
 ## Support
